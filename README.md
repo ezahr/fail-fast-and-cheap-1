@@ -17,4 +17,4 @@
 
 ![starte vidio](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/Screenshot%202020-07-17%20at%2022.36.21.png)
 
-[video 20200717]https://channel9.msdn.com/Events/Connect/2017/T174/player/
+[video 20200717](https://channel9.msdn.com/Events/Connect/2017/T174/player/)
