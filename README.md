@@ -11,3 +11,10 @@
 [Azure DevOps Starter documentation | Microsoft Docs](https://docs.microsoft.com/en-us/azure/devops-project/?view=azure-devops&WT.mc_id=email)
 
 ![starter]( https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/Screenshot%202020-07-17%20at%2022.13.32.png)
+
+
+# starter video
+
+![starte vidio](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/Screenshot%202020-07-17%20at%2022.36.21.png)
+
+[video 20200717]https://channel9.msdn.com/Events/Connect/2017/T174/player/
