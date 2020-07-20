@@ -1,6 +1,8 @@
 # fail-fast-and-cheap
 
-[devoos](https://youtu.be/6X_Ah6kqr6w)
+Azure DevOps is the ultimate DevOps tool, for any language targeting any platform. Now, Azure DevOps integrates seamlessly with GitHub. Come see how we can easily track our work with the Azure Boards and GitHub integration and how we can easily create CI/CD pipelines for our code in GitHub using Azure Pipelines.
+
+[devops](https://youtu.be/6X_Ah6kqr6w)
 
 ## 20200717 bosch.peter@outlook.com  P.!2.
 
@@ -20,6 +22,10 @@
 [video 20200717](https://channel9.msdn.com/Events/Connect/2017/T174/player/)
 
 [video 20200719](https://channel9.msdn.com/Events/Build/2018/THR5052?ocid=player)
+
+[video_20200719](https://channel9.msdn.com/Events/Connect/Microsoft-Connect--2018/D180)
+
+
 ````
 
 Description
