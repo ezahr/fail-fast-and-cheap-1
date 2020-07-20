@@ -1,7 +1,6 @@
 # fail-fast-and-cheap
 
-## Code -Build - release_pipeline- deploy into infrastructure on azure.
-
+![Code -Build - release_pipeline- deploy into infrastructure on azure.](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/azure_dev_ops.png)
 
 
 [Azure DevOps is the ultimate DevOps tool, for any language targeting any platform](https://azure.microsoft.com/en-us/services/devops/). Now, Azure DevOps integrates seamlessly with GitHub. Come see how we can easily track our work with the Azure Boards and GitHub integration and how we can easily create CI/CD pipelines for our code in GitHub using Azure Pipelines.
