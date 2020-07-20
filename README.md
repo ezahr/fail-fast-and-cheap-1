@@ -1,5 +1,5 @@
 # fail-fast-and-cheap
-
+## Code -Build - release_pipeline- deploy into infrastructure on azure
 ![Code -Build - release_pipeline- deploy into infrastructure on azure.](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/azure_dev_ops.png)
 
 
