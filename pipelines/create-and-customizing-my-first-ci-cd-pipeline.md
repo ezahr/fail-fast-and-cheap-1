@@ -9,7 +9,10 @@ https://portal.azure.com/#create/hub
 
 ## create resource  devops-starter
 
+https://portal.azure.com/#home
+
 ![devops_create_resource](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/0_create_resource_group_devops.png)
+
 
 ![devops_create_hub](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devops_create_hub.png)
 
