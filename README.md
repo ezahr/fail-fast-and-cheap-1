@@ -5,9 +5,17 @@
 
 [Azure DevOps is the ultimate DevOps tool, for any language targeting any platform](https://azure.microsoft.com/en-us/services/devops/). Now, Azure DevOps integrates seamlessly with GitHub. Come see how we can easily track our work with the Azure Boards and GitHub integration and how we can easily create CI/CD pipelines for our code in GitHub using Azure Pipelines.
 
+
+
+
 [devops](https://youtu.be/6X_Ah6kqr6w)
 
 ## 20200717 bosch.peter@outlook.com  P.!2.
+## 20200719 bosch.peter@hotmail.com  P.!2.
+
+Azure gratis uitproberen
+Volg deze stappen om aan de slag te gaan. We vragen om deze gegevens om uw account en gegevens te beschermen. Er is geen sprake van kosten die op voorhand moeten worden betaald.
+
 
 [maak van daag een free account](https://azure.microsoft.com/nl-nl/free/search/?&ef_id=EAIaIQobChMIi6qynYnV6gIVA7d3Ch0oVgKIEAAYASAAEgI1jfD_BwE:G:s&OCID=AID2100079_SEM_EAIaIQobChMIi6qynYnV6gIVA7d3Ch0oVgKIEAAYASAAEgI1jfD_BwE:G:s&dclid=CJPtlJ-J1eoCFdDvdwodDisB6Q)
 
