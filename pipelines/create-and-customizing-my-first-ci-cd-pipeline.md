@@ -19,4 +19,13 @@ Azure DevOps comprises of 5 services that span the breadth of the development cy
 ![repos](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/repos-logo.png)
 Azure Repos provides you with UNLIMITED Git repos. That means you can create a project in Azure DevOps and create as many repositories as you need and collaborate with your team members to build code with pull requests and advanced file management.
 
+Microsoft enhanced git to scale to enterprise needs and invested in GVFS (Git Virtual File Systems) - https://gvfs.io/. GVFS helps in managing massive enterprise scale repositories. The Windows code base which is nearly 400GB in size is hosted on Azure Repos. A simple git clone command on the windows repo with git would take 12+ hours; but with GVFS it takes around 4-5 minutes.
+How we use it? In Azure DevOps, we use git in Azure Repos to maintain our code and use a combination of small commits, branch policies, PR reviews, and test with each check-in to ensure our code in master is always shippable. We work out of a single master, that helps us to eliminate merge debt. Considering that Azure DevOps has nearly 800 engineers, merge debt can be a potentially big problem. Using the pull requests acts as forcing factor to test and review our code, helping us to detect errors in the pipeline.
+We run a bunch of tests with every merge to master thereby helping us ensure that master is pristine
+
+
+![pipelins](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/pipelines-logo.png)
+
+Azure pipelines allow you to build, test, and deploy with CI/CD that works with any language, platform, and cloud. You can use Azure Pipelines to connect to GitHub or any other Git provider and deploy continuously.
+
 
