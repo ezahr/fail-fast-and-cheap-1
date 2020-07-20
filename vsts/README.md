@@ -1,9 +1,16 @@
-Visual Studio Team Services
+
+## GVFS Git Virtual File system
+
+
 
 [VSTS is now Azure DevOps. What has changed and why?](https://www.dotnetcurry.com/devops/1473/vsts-azure-devops-change)
 
+How does it work? VFS for Git virtualizes the filesystem beneath your Git repository so that Git tools see what appears to be a normal repository when, in fact, the files are not actually present on disk. VFS for Git only downloads files as they are needed.
+VFS for Git also manages Git's internal state so that it only considers the files you have accessed, instead of having to examine every file in the repository. This ensures that operations like status and checkout are as fast as possible.
+
 Abtract: Microsoft recently launched Azure DevOps (formerly known as VSTS) that comprises of 5 different services that span the breadth of the value chain of product development. This article dives into what is the Azure DevOps offering and how is Microsoft uses Azure DevOps to build its own products. 
 
+## VSTS  Visual Studio Team Services
 
 DevOps brings together people, processes and technology, automating software delivery to provide continuous value to your users. In other words, it enables any developer to ship customer value faster, more reliably, and with better quality.
 
