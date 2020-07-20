@@ -6,6 +6,8 @@ create-and-customizing-my-first-ci-cd-pipeline.md
 https://portal.azure.com/#create/hub
 
 
+![devops_create_hub](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devops_create_hub.png)
+
 
 
 # lets go check it out
@@ -13,8 +15,10 @@ https://portal.azure.com/#create/hub
 
 ## sample-code project
 
+
 ![siging](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/signin_with_other_account.png)
 
+![devops_create_hub](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devops_create_hub.png)
 
 ## build and release pipeline
 
