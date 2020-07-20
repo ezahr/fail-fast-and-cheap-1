@@ -1,5 +1,7 @@
 create-and-customizing-my-first-ci-cd-pipeline.md
 
+![video](https://channel9.msdn.com/Events/Connect/2017/T174/player/)
+
 ![Plan better, code together, ship faster with Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
 
 
