@@ -1,3 +1,5 @@
+Visual Studio Team Services
+
 [VSTS is now Azure DevOps. What has changed and why?](https://www.dotnetcurry.com/devops/1473/vsts-azure-devops-change)
 
 Abtract: Microsoft recently launched Azure DevOps (formerly known as VSTS) that comprises of 5 different services that span the breadth of the value chain of product development. This article dives into what is the Azure DevOps offering and how is Microsoft uses Azure DevOps to build its own products. 
