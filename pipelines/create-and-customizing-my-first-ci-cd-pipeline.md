@@ -28,6 +28,12 @@ Try Azure for free Follow these steps to get started. We ask for these details t
 
 # lets go check it out
 
+[for this demo we will use dot net](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aspnet-core)
+
+
+
+
+
 
 ## sample-code project
 
