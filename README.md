@@ -20,3 +20,9 @@
 [video 20200717](https://channel9.msdn.com/Events/Connect/2017/T174/player/)
 
 [video 20200719](https://channel9.msdn.com/Events/Build/2018/THR5052?ocid=player)
+````
+
+Description
+
+In this video, we walk you through setting up a CI/CD pipeline for your existing ASP.NET 4 app hosted in Azure. We do all this with just a couple of clicks using the Azure DevOps Projects For full details & to get started visit: https://aka.ms/DevOpsProjects.
+````
