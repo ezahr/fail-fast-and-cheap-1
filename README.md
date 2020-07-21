@@ -1,4 +1,7 @@
 # fail-fast-and-cheap
+
+
+
 ## Code -Build - release_pipeline- deploy into infrastructure on azure
 ![Code -Build - release_pipeline- deploy into infrastructure on azure.](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/azure_dev_ops.png)
 
@@ -10,15 +13,12 @@
 
 ![gratisditkeer](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/azure_gratis_proberen.png)
 
+Azure gratis uitproberen
+Volg deze stappen om aan de slag te gaan. We vragen om deze gegevens om uw account en gegevens te beschermen. Er is geen sprake van kosten die op voorhand moeten worden betaald.
+
 ![welkom bosch.peter@icloud.com](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/boschpetericloudcom_welkom20201721.png)
 
 ![devop starter](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devops_starter_create.png)
-
-
-
-
-[devops](https://youtu.be/6X_Ah6kqr6w)
-
 
 ## 20200717 bosch.peter@outlook.com  P.!2.
 ## 20200719 bosch.peter@hotmail.com  P.!2.
@@ -26,12 +26,15 @@
 
 
 
-
-Azure gratis uitproberen
-Volg deze stappen om aan de slag te gaan. We vragen om deze gegevens om uw account en gegevens te beschermen. Er is geen sprake van kosten die op voorhand moeten worden betaald.
-
-
 [maak van daag een free account](https://azure.microsoft.com/nl-nl/free/search/?&ef_id=EAIaIQobChMIi6qynYnV6gIVA7d3Ch0oVgKIEAAYASAAEgI1jfD_BwE:G:s&OCID=AID2100079_SEM_EAIaIQobChMIi6qynYnV6gIVA7d3Ch0oVgKIEAAYASAAEgI1jfD_BwE:G:s&dclid=CJPtlJ-J1eoCFdDvdwodDisB6Q)
+
+## https://portal.azure.com/#home
+
+
+
+
+[devops](https://youtu.be/6X_Ah6kqr6w)
+
 
 
 
