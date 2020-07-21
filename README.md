@@ -30,7 +30,7 @@ Volg deze stappen om aan de slag te gaan. We vragen om deze gegevens om uw accou
 
 ## https://portal.azure.com/#home
 
-
+![back home](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/home_azure_com.png)
 
 
 [devops](https://youtu.be/6X_Ah6kqr6w)
