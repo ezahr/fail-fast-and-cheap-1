@@ -10,8 +10,13 @@
 
 [devops](https://youtu.be/6X_Ah6kqr6w)
 
+
 ## 20200717 bosch.peter@outlook.com  P.!2.
 ## 20200719 bosch.peter@hotmail.com  P.!2.
+## 20200721 bosch.peter@icloud.com  P.!2.
+
+
+
 
 Azure gratis uitproberen
 Volg deze stappen om aan de slag te gaan. We vragen om deze gegevens om uw account en gegevens te beschermen. Er is geen sprake van kosten die op voorhand moeten worden betaald.
