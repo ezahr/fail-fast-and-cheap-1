@@ -37,10 +37,13 @@ Volg deze stappen om aan de slag te gaan. We vragen om deze gegevens om uw accou
 
 
 
-
 [Azure DevOps Starter documentation | Microsoft Docs](https://docs.microsoft.com/en-us/azure/devops-project/?view=azure-devops&WT.mc_id=email)
 
 ![starter]( https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/Screenshot%202020-07-17%20at%2022.13.32.png)
+
+## devopstarter_Jeuh
+
+![devopstarter_Jeuh](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarter_Jeuh.png)
 
 
 # starter video
