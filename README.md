@@ -1,6 +1,6 @@
 # fail-fast-and-cheap
 
-
+Het DevOps-concept is een totaalvisie op de gehele keten, van het starten van het ontwikkelproces tot en met het in productie gaan. Het is een manier van werken die de tegenstrijdige belangen van ontwikkelaars en technische specialisten binnen een organisatie bij elkaar laat komen
 
 ## Code -Build - release_pipeline- deploy into infrastructure on azure
 ![Code -Build - release_pipeline- deploy into infrastructure on azure.](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/azure_dev_ops.png)
