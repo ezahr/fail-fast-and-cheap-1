@@ -32,4 +32,7 @@ Working from the command line? You can view our video tutorial using command lin
 
 https://mcc-repo@dev.azure.com/mcc-repo/hello-azure-again/_git/hello-azure-again
 username=bosch.peter
-5v tm nuiuma
+5vucgwf4lmclizmk7e5fmm535lef5ise6kn2mf5xsph35cnuiuma
+
+
+
