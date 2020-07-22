@@ -2,6 +2,7 @@
 
 Azure DevOps Project has been successfully setup our ASP.NET MVC app is up and running on Azure.
 
+![bp](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/hello-azure-again_build-pipeline36.png)
 
 ##  started right away
 
