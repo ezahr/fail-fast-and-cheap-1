@@ -107,3 +107,5 @@ Application/SampleWebApplication/Views/Home/Index.cshtml
 
 ![bp](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/hello-azure-again_build-pipeline36.png)
 
+![meel](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/6D85D290-B66F-4336-A59F-B49AA808032D.png)
+
