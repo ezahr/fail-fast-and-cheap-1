@@ -8,8 +8,9 @@
 
 [Clone an existing Git rep](https://docs.microsoft.com/en-us/azure/devops/repos/git/clone?view=azure-devops&tabs=visual-studio)
 
-![create a repo]((https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/create-a-repo.png)
-![projects home](dev-azure-com-projects-home-mcc-repo.png)
+![createrepo]((https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/create-a-repo.png)
+
+![projectshome](dev-azure-com-projects-home-mcc-repo.png)
 
 Create a complete local copy of an existing Git repository by cloning it. 
 Cloning a repo downloads all commits and branches in the repo. 
