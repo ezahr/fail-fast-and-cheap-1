@@ -7,6 +7,7 @@ Azure DevOps Project has been successfully setup our ASP.NET MVC app is up and r
 
 [Clone your code repository and start developing your application on IDE of your choice ](https://docs.microsoft.com/en-us/azure/devops/repos/git/clone?view=azure-devops&tabs=visual-studio)
 
+# build pipeline 
 
 ## continuous Delivery
 
@@ -20,3 +21,14 @@ View your CI/CD pipeline on Azure Devops and customize it as per your needs
 
 ## Clone your code repository and start developing your application on IDE of your choice 
 
+
+
+````
+boscp08@kubernetes-worker2:~/.../virtual-insanity$ cd hello-azure-again/
+boscp08@kubernetes-worker2:~/.../hello-azure-again$ egrep -lra "Get started right away"
+Application/SampleWebApplication/Views/Home/Index.cshtml
+````
+
+
+
+# release pipeline 
