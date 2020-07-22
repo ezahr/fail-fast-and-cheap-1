@@ -1,4 +1,4 @@
-# fail-fast-and-cheap
+# fail-fast-and-cheap https://hello-azure-again.azurewebsites.net/
 
 Het DevOps-concept is een totaalvisie op de gehele keten, van het starten van het ontwikkelproces tot en met het in productie gaan. Het is een manier van werken die de tegenstrijdige belangen van ontwikkelaars en technische specialisten binnen een organisatie bij elkaar laat komen
 
@@ -59,5 +59,26 @@ Volg deze stappen om aan de slag te gaan. We vragen om deze gegevens om uw accou
 
 Description
 
-In this video, we walk you through setting up a CI/CD pipeline for your existing ASP.NET 4 app hosted in Azure. We do all this with just a couple of clicks using the Azure DevOps Projects For full details & to get started visit: https://aka.ms/DevOpsProjects.
+In this video, we walk you through setting up a CI/CD pipeline for your existing ASP.NET 4 app hosted in Azure. 
+We do all this with just a couple of clicks using the Azure DevOps Projects For full details 
+& to get started visit: https://aka.ms/DevOpsProjects.
 ````
+## https://hello-azure-again.azurewebsites.net/
+
+Azure DevOps Project has been successfully setup our ASP.NET MVC app is up and running on Azure.
+
+
+##  started right away
+
+[Clone your code repository and start developing your application on IDE of your choice ](https://docs.microsoft.com/en-us/azure/devops/repos/git/clone?view=azure-devops&tabs=visual-studio)
+
+
+## continuous Delivery
+
+View your CI/CD pipeline on Azure Devops and customize it as per your needs
+
+## Azure DevOps Project
+
+[Learn more about all you can do with Azure DevOps project by visiting the documentation](https://docs.microsoft.com/en-us/azure/devops-project/)
+
+
