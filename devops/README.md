@@ -46,4 +46,12 @@ focal-fossa        ictu-blue            MCC-repo         MSS-nl-covid19-notifica
 hello-azure-again  Kubernetes_20200612  MCC-repo-backup  mysql                                    OCI                                 test-repo       traefik       Workbook_Docker_fundamentals.7z
 boscp08@kubernetes-worker2:~/.../virtual-insanity$ 
 ````
+## https://docs.microsoft.com/en-us/dotnet/core/install/linux   Ubuntu
 
+Ubuntu uses APT (Advanced Package Tool) as a package manager.
+The following table represents the support status of Ubuntu and .NET Core.
+    A ✔️ indicates that the version of Ubuntu or .NET Core is still supported.
+    A ❌ indicates that the version of Ubuntu or .NET Core isn't supported on that Ubuntu release.
+    When both a version of Ubuntu and a version of .NET Core have ✔️, that OS and .NET combination are supported.
+Ubuntu 	.NET Core 2.1 	.NET Core 3.1 	.NET 5 Preview (manual install only)
+✔️ 20.04 (LTS) 	✔️ 2.1 	✔️ 3.1 	✔️ 5.0 Preview
