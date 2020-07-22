@@ -1,6 +1,6 @@
 ## https://dev.azure.com/mcc-repo/   projects home 
 
-
+![step_cloud](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/step_cloud.png)
 
 ![hello-azure-again](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/DevOps_maakaf_wat_agile_begon.jpg)
 
