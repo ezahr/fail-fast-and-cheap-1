@@ -48,6 +48,8 @@ boscp08@kubernetes-worker2:~/.../virtual-insanity$
 ````
 ## https://docs.microsoft.com/en-us/dotnet/core/install/linux   Ubuntu
 
+![dotnet.microsoft.com](https://dotnet.microsoft.com/download/dotnet-core/sdk-for-vs-code?utm_source=vs-code&amp;utm_medium=referral&amp;utm_campaign=sdk-install)
+
 Ubuntu uses APT (Advanced Package Tool) as a package manager.
 The following table represents the support status of Ubuntu and .NET Core.
     A ✔️ indicates that the version of Ubuntu or .NET Core is still supported.
