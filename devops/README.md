@@ -5,12 +5,9 @@
 ![hello-azure-again](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/DevOps_maakaf_wat_agile_begon.jpg)
 
 ## Clone an existing Git repo
-
 [Clone an existing Git rep](https://docs.microsoft.com/en-us/azure/devops/repos/git/clone?view=azure-devops&tabs=visual-studio)
 
 ![createrepo](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/create-a-repo.png)
-
-![projectshome](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/dev-azure-com-projects-home-mcc-repo.png)
 
 Create a complete local copy of an existing Git repository by cloning it. 
 Cloning a repo downloads all commits and branches in the repo. 
@@ -27,4 +24,7 @@ In this tutorial you learn how to:
     Clone a repo
 
 Working from the command line? You can view our video tutorial using command line steps on ![Channel9](https://channel9.msdn.com/series/Team-Services-Git-Tutorial/Git-Tutorial-Create-a-repo-from-the-command-line).
+
+## https://dev.azure.com/mcc-repo/
+![projectshome](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/dev-azure-com-projects-home-mcc-repo.png)
 
