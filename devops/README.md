@@ -28,3 +28,8 @@ Working from the command line? You can view our video tutorial using command lin
 ## https://dev.azure.com/mcc-repo/
 ![projectshome](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/dev-azure-com-projects-home-mcc-repo.png)
 
+![clone](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/clone.png)
+
+https://mcc-repo@dev.azure.com/mcc-repo/hello-azure-again/_git/hello-azure-again
+username=bosch.peter
+5v tm nuiuma
