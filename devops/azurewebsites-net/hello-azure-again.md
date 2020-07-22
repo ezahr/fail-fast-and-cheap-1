@@ -23,6 +23,7 @@ View your CI/CD pipeline on Azure Devops and customize it as per your needs
 ## Clone your code repository and start developing your application on IDE of your choice 
 
 
+![bp](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/hello-azure-again_build-pipeline06.png)
 
 ````
 boscp08@kubernetes-worker2:~/.../virtual-insanity$ cd hello-azure-again/
@@ -48,7 +49,6 @@ Application/SampleWebApplication/Views/Home/Index.cshtml
 
 ![bp](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/hello-azure-again_build-pipeline05.png)
 
-![bp](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/hello-azure-again_build-pipeline06.png)
 
 ![bp](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/hello-azure-again_build-pipeline07.png)
 
