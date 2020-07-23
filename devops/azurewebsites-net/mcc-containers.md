@@ -23,7 +23,8 @@
 
 ## http://www.zuidugchelen.eu/site/mcc-containers/Application/index.html
 
+## https://mcc-static.azurewebsites.net/
 
 ![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite10.png)
 
-![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite11..png)
+![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite11.png)
