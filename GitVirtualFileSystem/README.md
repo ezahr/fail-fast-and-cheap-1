@@ -17,4 +17,7 @@ Version control has a general workflow that most developers use when writing cod
 |Once the code is reviewed, merge it into the team's shared codebase.|
 
 
+![workflow](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git_workflow.png)
+
+
 
