@@ -1,0 +1,12 @@
+# devops starter static website  
+
+devopstarte_staticWebsite00.png
+devopstarte_staticWebsite01.png
+devopstarte_staticWebsite02.png
+devopstarte_staticWebsite03.png
+devopstarte_staticWebsite04.png
+devopstarte_staticWebsite05.png
+devopstarte_staticWebsite06.png
+devopstarte_staticWebsite07.png
+devopstarte_staticWebsite08.png
+devopstarte_staticWebsite09.png
