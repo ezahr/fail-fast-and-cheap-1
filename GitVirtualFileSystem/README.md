@@ -19,5 +19,14 @@ Version control has a general workflow that most developers use when writing cod
 
 ![workflow](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git_workflow.png)
 
+https://github.com/Microsoft/azure-devops-dotnet-samples
 
+
+## Git workflow
+Create a branch for the changes you plan to make and give it a name, such as users/jamal/fix-bug-3214 or cool-feature-x. For more branching guidance, see Adopt a Git branching strategy
+Commit changes to your branch. People often have multiple commits for a bug fix or feature.
+Push your branch to the remote repository.
+Create a pull request so other people can review your changes. To incorporate feedback, you might need to make more commits and push more changes.
+Complete your pull request and resolve any merge conflicts from changes other people made after you created your branch.
+Use this workflow if you're new to Git. As your team gets more experienced and confident with Git, extend it to suit your team's needs.
 
