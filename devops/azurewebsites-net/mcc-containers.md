@@ -26,4 +26,4 @@
 
 ![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite10.png)
 
-![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite11.png)
+![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite11..png)
