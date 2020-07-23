@@ -1,12 +1,21 @@
-# devops starter static website  
+# devops starter static website  https://mcc-containers.azurewebsites.net/
 
-devopstarte_staticWebsite00.png
-devopstarte_staticWebsite01.png
-devopstarte_staticWebsite02.png
-devopstarte_staticWebsite03.png
-devopstarte_staticWebsite04.png
-devopstarte_staticWebsite05.png
-devopstarte_staticWebsite06.png
-devopstarte_staticWebsite07.png
-devopstarte_staticWebsite08.png
-devopstarte_staticWebsite09.png
+![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite00.png)
+
+![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite01.png)
+
+![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite02.png)
+
+![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite03.png)
+
+![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite04.png)
+
+![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite05.png)
+
+![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite06.png)
+
+![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite07.png)
+
+![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite08.png)
+
+![cnt](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/devopstarte_staticWebsite09.png)
