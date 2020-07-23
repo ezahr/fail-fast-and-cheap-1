@@ -9,6 +9,15 @@
 
 ![hello-azure-again](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/DevOps_maakaf_wat_agile_begon.jpg)
 
+|http://www.zuidugchelen.eu/site/mcc-containers/Application/index.html|
+|-----------------------------------------------------------------------------|
+|[Clone your code repository and start developing your application on IDE of your choice](https://docs.microsoft.com/en-us/azure/devops/repos/git/clone?view=azure-devops&tabs=visual-studio)|
+|[View your CI/CD pipeline on Azure Devops and customize it as per your needs](https://azure.microsoft.com/en-us/services/devops/pipelines/)|
+|[View your service stack in the Azure Portal](https://portal.azure.com/#home)|
+|[Learn more about all you can do with Azure projects by visiting the documentation](https://docs.microsoft.com/en-us/azure/devops-project/)|
+
+
+
 ## Clone an existing Git repo
 [Clone an existing Git rep](https://docs.microsoft.com/en-us/azure/devops/repos/git/clone?view=azure-devops&tabs=visual-studio)
 
