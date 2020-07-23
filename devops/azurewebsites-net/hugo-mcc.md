@@ -2,6 +2,8 @@
 
 Ik heb zojuist een nieuwe Go-webapp op Azure gemaakt met Azure DevOps Project #AzureDevOpsProject #VSTS @Azure @VSTS
 
+![go](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/mcc-hugo_azurewebsites_com.png)
+
 ![go](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/mcc-hugo00.png)
 
 ![go](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/mcc-hugo01.png)
