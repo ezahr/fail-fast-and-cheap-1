@@ -1,4 +1,7 @@
 
+
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/branch.jpg)
+
 ````
 $ git checkout master
 $ sudo git status
