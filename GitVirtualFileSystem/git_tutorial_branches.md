@@ -1,6 +1,6 @@
 
 
-![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/branch.jpg)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/branch.jpeg)
 
 ````
 $ git checkout master
