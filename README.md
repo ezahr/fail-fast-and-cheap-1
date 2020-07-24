@@ -6,7 +6,7 @@ Het DevOps-concept is een totaalvisie op de gehele keten, van het starten van he
 ![Code -Build - release_pipeline- deploy into infrastructure on azure.](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/azure_dev_ops.png)
 
 
-[Azure DevOps is the ultimate DevOps tool, for any language targeting any platform](https://azure.microsoft.com/en-us/services/devops/). Now, Azure DevOps integrates seamlessly with GitHub. Come see how we can easily track our work with the Azure Boards and GitHub integration and how we can easily create CI/CD pipelines for our code in GitHub using Azure Pipelines.
+[Azure DevOps is the ultimate DevOps tool, for any language targeting any platform](https://azure.microsoft.com/en-us/services/devops/). Now, Azure DevOps integrates seamlessly with GitHub. Come see how we can easily track our work with the Azure Boards and GitHub integration and how we can easily create CI/CD pipelines for our code in GitHub using Azure Pipelines. We zijn in een uitzonderlijke situatie beland met het uitbreken van COVID-19. Het is hartverwarmend om te zien hoeveel initiatieven, ook vanuit de tech hoek, worden gerealiseerd om elkaar te helpen. Via deze 'Internet tegen Corona' call dragen we graag bij aan sterke internet oplossingen die hulp kunnen bieden in deze crisis.
 
 
 ![signup](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/signup4azure.png)
