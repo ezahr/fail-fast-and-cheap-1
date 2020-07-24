@@ -26,13 +26,13 @@ $ sudo git push origin --delete new-branch
 
 # devops create repo
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git_init.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git_init.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/create_new_repo.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/create_new_repo.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git_commit.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git_commit.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git_push.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git_push.png)
 
 
 |[must-know-commands-to-make-your-first-commit](https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c)
@@ -66,29 +66,29 @@ $ sudo git push origin --delete new-branch
 |sudo git push|
 
 ## create 'feature branche'  from master
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git-branche_feature1_00.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git-branche_feature1_00.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git-branche_feature1_01.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git-branche_feature1_01.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git-branche_feature1_02.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git-branche_feature1_02.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git-branche_feature1_03.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git-branche_feature1_03.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git-branche_feature1_04.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git-branche_feature1_04.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git-branche_feature1_05.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git-branche_feature1_05.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/it-branche_feature1_06.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/it-branche_feature1_06.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/it-branche_feature1_07.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/it-branche_feature1_07.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git-branche_feature1_08.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git-branche_feature1_08.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git-branche_feature1_09.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git-branche_feature1_09.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git-branche_feature1_10.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git-branche_feature1_10.png)
 
-![git](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/git-branche_feature1_11.png)
+![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/git-branche_feature1_11.png)
 
 |[branches](https://docs.microsoft.com/en-us/azure/devops/repos/git/branches?view=azure-devops&tabs=command-line#use-branches-to-manage-development)|
 |------------------------------------------------------|
@@ -109,19 +109,19 @@ $ sudo git push origin --delete new-branch
 
 [Git's workflow](https://docs.microsoft.com/en-us/azure/devops/repos/git/pullrequest?view=azure-devops) uses branches to isolate work until you're ready to merge the changes into your default branch, such as master. The pull request is the collaborative process that lets the rest of the team discuss changes in a branch and agree to merge them once everyone approves. Use pull requests to get early feedback from others on work in progress, even if you're not ready to merge the changes into another branch.
 
-![merge](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/merge_feature_branche_into_master00.png)
+![merge](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/merge_feature_branche_into_master00.png)
 
-![merge](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/merge_feature_branche_into_master01.png)
+![merge](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/merge_feature_branche_into_master01.png)
 
-![merge](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/merge_feature_branche_into_master02.png)
+![merge](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/merge_feature_branche_into_master02.png)
 
-![merge](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/merge_feature_branche_into_master03.png)
+![merge](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/merge_feature_branche_into_master03.png)
 
-![merge](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/merge_feature_branche_into_master04.png)
+![merge](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/merge_feature_branche_into_master04.png)
 
-![merge](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/merge_feature_branche_into_master05.png)
+![merge](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/merge_feature_branche_into_master05.png)
 
-![merge](https://github.com/ezahr/fail-fast-and-cheap//blob/master/pictures/merge_feature_branche_into_master06.png)
+![merge](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/merge_feature_branche_into_master06.png)
 
 [apply-changes-from-one-branch-to-another](https://www.jetbrains.com/help/pycharm/apply-changes-from-one-branch-to-another.html?gclid=Cj0KCQjwjer4BRCZARIsABK4QeVp50Oynvq_9kHTnyT9VkzgFQwRHjhSf9QMmiZAoR-xlBG63GkFyCkaArOFEALw_wcB#cherry-pick)
 
