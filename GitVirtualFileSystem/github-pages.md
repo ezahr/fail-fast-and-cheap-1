@@ -1,5 +1,8 @@
-
 # GitHub Pages Websites for you and your projects.
+
+##  Your site is published at https://ezahr.github.io/fail-fast-and-cheap/
+
+
 
 Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 GitHub Pages is designed to host your personal, organization, or project pages from a GitHub repository.
