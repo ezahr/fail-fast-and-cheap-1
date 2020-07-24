@@ -11,7 +11,7 @@ Open up a command prompt and navigate to the top-level folder containing your pr
 
 [Work in branches](https://docs.microsoft.com/en-us/azure/devops/repos/git/branches?view=azure-devops&tabs=visual-studio) to keep track of your work and [create commits](https://docs.microsoft.com/en-us/azure/devops/repos/git/commits?view=azure-devops&tabs=visual-studio) to snapshot your changes into Git.
 
-Once you are ready to share your code, [get the clone URL](https://docs.microsoft.com/en-us/azure/devops/repos/git/clone?view=azure-devops&tabs=visual-studio#clone_url) for the repository you want to connect to and then set up a remote relationship (in this case, origin) so your repo can push changes to a shared repo.
+Once you are ready to share your code, [get the clone URL](https://docs.microsoft.com/en-us/azure/devops/repos/git/clone?view=azure-devops&tabs=visual-studio#clone_url) for the repository you want to connect to and then set up a remote relationship (in this case, origin) so your repo can [push changes](https://docs.microsoft.com/en-us/azure/devops/repos/git/creatingrepo?view=azure-devops&tabs=command-line) to a shared repo.
 
 ## git remote add origin https://dev.azure.com/fabrikam/Fabrikam/_git/FabrikamFiber
 
