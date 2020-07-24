@@ -9,7 +9,7 @@ The steps in the following tutorials show how to perform common version controls
 Version control workflow
 Version control has a general workflow that most developers use when writing code and sharing it with the team.
 
-|These steps are|
+|These steps are http://www.zuidugchelen.eu/site/mcc-containers/Application/index.html |
 |---------------------------------------------------|
 |Get a local copy of code if they don't have one yet.|
 |Make changes to code to fix bugs or add new features.|
