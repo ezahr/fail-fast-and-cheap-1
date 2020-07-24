@@ -1,6 +1,6 @@
 ## Git uses Git Virtual File System to scale to enterprise-scale repositories, like the Windows code base. 
 
-![This video introduces you to Git Virtual File System and how it works.](http://www.zuidugchelen.eu/site/mcc-containers/Application/index.html)
+![This video introduces you to Git Virtual File System and how it works](http://www.zuidugchelen.eu/site/mcc-containers/Application/index.html)
 
 Use version control to save your work and coordinate code changes across your team. Even if you're just a single developer, version control helps you stay organized as you fix bugs and develop new features. Version control keeps a history of your development so that you can review and even rollback to any version of your code with ease.
 
