@@ -15,8 +15,27 @@ Once you are ready to share your code, [get the clone URL](https://docs.microsof
 
 ## git remote add origin https://dev.azure.com/fabrikam/Fabrikam/_git/FabrikamFiber
 
+git remote add origin https://github.com/ezahr/devops
+
 Push your changes to the origin repository to share with others:
 
 ## git push origin users/frank/feature
+
+https://dev.to/juni/git-and-github---must-know-commands-to-make-your-first-commit-333c
+
+  445  sudo rm -rf devops/
+  446  git clone https://github.com/ezahr/devops.git
+  447  sudo git clone https://github.com/ezahr/devops.git
+  453  sudo cp index.nginx-debian.html ./devops
+  454  cd devops/
+  455  git status
+  461  sudo git add .
+  462  sudo git commit -am  "index jeuh"
+  463  git status
+  464  sudo git push
+
+
+
+
 
 
