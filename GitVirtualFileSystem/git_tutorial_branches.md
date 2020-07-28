@@ -2,6 +2,9 @@
 
 ![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/branch.jpeg)
 
+[Learn how to work with code from your team using Git pull.](https://channel9.msdn.com/series/Team-Services-Git-Tutorial/Git-Tutorial-Pull?ocid=player)
+
+
 ````
 $ git checkout master
 $ sudo git status
