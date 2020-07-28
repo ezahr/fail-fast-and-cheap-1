@@ -2,6 +2,18 @@
 
 ![git](https://github.com/ezahr/fail-fast-and-cheap/blob/master/pictures/branch.jpeg)
 
+## git push -u origin master
+```
+echo "# nextcloud" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/boschpeter/nextcloud.git
+git push -u origin master
+
+````
+
+## git branch new-branch
 ````
 $ git checkout master
 $ sudo git status
