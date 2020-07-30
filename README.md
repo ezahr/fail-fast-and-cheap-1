@@ -59,3 +59,16 @@ We do all this with just a couple of clicks using the Azure DevOps Projects For 
 ````
 
 
+## 20200801 Learn how to track your remaining free credit and usage by resource  
+If you’d like more help, please contact billing support.
+	
+[billing overview]](https://portal.azure.com/#blade/Microsoft_Azure_Billing/BillingMenuBlade/Overview)
+
+[Congratulations on spinning up your first Azure services. Tracking your usage by resource and your remaining credit helps you plan for and manage future costs, no matter what you’re building. Learn how to keep an eye on your usage using simple billing tools in the portal. Billing view with context
+Learn more about Azure billing tools for your future projects:
+
+[Check your usage of the free services included with the free account.](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/check-free-service-usage)
+
+[Estimate monthly costs and plan budgets with the pricing calculator.](https://azure.microsoft.com/en-us/pricing/calculator/)
+
+[Predict costs and optimize spending with help from this tutorial.](https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/)
